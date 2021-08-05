@@ -1,6 +1,7 @@
 pragma solidity ^0.5.13;
 
 import "./Allowance.sol";
+lam
 
 contract SimpleWallet is Allowance {
     
